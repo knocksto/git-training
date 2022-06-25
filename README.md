@@ -1,5 +1,7 @@
 # git-training
-Turntabl git training for interns
 
+Turntabl git training for interns 2020
 
-Seth Addo
+1. Seth Addo
+2. Faddal Ibrahim
+
