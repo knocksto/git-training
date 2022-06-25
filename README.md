@@ -1,5 +1,7 @@
 # git-training
 
-Turntabl Interns 2022
+Turntabl git training for interns 2020
 
-1. Faddal Ibrahim
+1. Seth Addo
+2. Faddal Ibrahim
+
