@@ -1,0 +1,5 @@
+My experience at turntabl:
+ I've lerant about the  following:
+  - Git
+  - Java
+  - Testing and  more

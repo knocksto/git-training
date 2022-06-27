@@ -1,0 +1,5 @@
+I have learnt the following:
+ - staging
+ - how to commit changes
+ - connecting a local copy of a forked project to the main repo using upstream
+ - fetching , etc

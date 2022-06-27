@@ -1,0 +1,8 @@
+upstream
+fork
+branch
+rebase
+
+restore
+reset
+revert
