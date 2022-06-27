@@ -1,0 +1,1 @@
+I learnt that git is a tool for collaborating on and keeping track of changes in a codebase during a period of development. it allows multiple developers to work together on a single application and allows them to track changes in the codebase 
