@@ -1,0 +1,22 @@
+Today I learned about the git workflow which consisted of 4 main areas:
+Working directory
+Staging area
+Local repository
+Remote
+
+I learned about commands to use to keep track of changes made in files in the areas:
+add
+commit
+fetch
+push
+pull
+
+I learned about the HEAD and how it points to the latest commit made and how to detach the HEAD with git checkout.
+
+I learned about the difference between rebasing and merging
+
+I learned about the 3Rs
+
+I learned about stashing and the differences between stashing and committing
+
+I learned how to fork and create a pull request
