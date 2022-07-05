@@ -7,5 +7,6 @@ Turntabl git training for interns 2020
 3. Elias Elikem Ifeanyi Dzobo
 4. Andoch Bonin
 5. Kasim Ibrahim
+6. Steven E Attipoe
 
 

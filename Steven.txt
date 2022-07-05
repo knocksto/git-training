@@ -1,0 +1,11 @@
+Git is used for version  control.
+With git, we can clone or initialize a git repo locally.
+From there you can add, pull and push.
+Also,we can create breanches for developing new features.
+Rebase and Merge all comine all the work on a branch to the master.
+Also, rebase helps deal with conflicts to a degreee.
+We aslo have the 3Rs being: Restore, Reset and Revert.
+We create a stash and switch to another branch without losing modifications
+on the current branch.
+Finally, we always create pull requests to merge a forked repo to the 
+primary repo. 
