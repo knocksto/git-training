@@ -1,0 +1,8 @@
+I learned .... about it today.
+
+1. Databases of git
+2. How to use git to keep track of project in versions
+3. Make changes of files in working directory
+4. Staging a working directory, basically git adding in local repo
+5. Commiting and adding messages to commit... If you commit you have staged
+6. blah blah blah ....

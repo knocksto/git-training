@@ -1,0 +1,4 @@
+My experience at Turntabl has been awesome so far.
+It first started with learning about the core values of the company.
+From there, we moved to Java week where we learnt about OOP.
+We then learnt about testing and now version control with git.
