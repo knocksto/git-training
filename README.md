@@ -1,3 +1,4 @@
+
 # git-training
 
 Turntabl git training for interns 2020
@@ -8,5 +9,4 @@ Turntabl git training for interns 2020
 4. Andoch Bonin
 5. Kasim Ibrahim
 6. Steven E Attipoe
-
-
+7.Ghadi Agha
